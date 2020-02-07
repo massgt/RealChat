@@ -33,15 +33,16 @@
 ## Screenshots
 <div align="center">
     <img width="200" src="./Screenshot/1.png">
-    <!-- <img width="200" src="./Design/4.jpeg">
-    <img width="200" src="./Design/3.jpeg">
-    <img width="200" src="./Design/2.jpeg">
-    <img width="200" src="./Design/1.jpeg">
-    <img width="200" src="./Design/6.jpeg"> -->
+    <img width="200" src="./Screenshot/2.png">
+    <img width="200" src="./Screenshot/3.png">
+    <img width="200" src="./Screenshot/4.png">
+    <img width="200" src="./Screenshot/5.png">
+    <img width="200" src="./Screenshot/6.png">
+    <img width="200" src="./Screenshot/7.png">
 </div>
 
 ## Release APK
-<a href="http://bit.ly/2RYTv1D">
+<a href="http://bit.ly/realchatapp">
   <img src="https://img.shields.io/badge/Download%20on%20the-Google%20Drive-blue.svg?style=popout&logo=google-drive"/>
 </a>
 
@@ -50,8 +51,8 @@
   <table>
     <tr>
       <td align="center">
-        <a href="https://github.com/melankolia">
-          <sub><b>Ageng Setyo Nugroho</b></sub>
+        <a href="https://github.com/massgt">
+          <sub><b>Sigit Wijaya Pramono</b></sub>
         </a>
       </td>
     </tr>
